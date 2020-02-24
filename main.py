@@ -1,10 +1,10 @@
-#nathan Borchelt 15Min
+#nathan Borchelt 5 hours
 from spin import *
 from chat import *
 from person import *
 from time import sleep,time
 from random import choice
-
+hello there
 def letterCheck(phrase,letter):
     letTimes = 0
     if letter in phrase[1]:

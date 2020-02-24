@@ -1,5 +1,5 @@
 #nathan Borchelt
-#35 min
+#1 hour
 import datetime
 date = datetime.datetime.today()
 
