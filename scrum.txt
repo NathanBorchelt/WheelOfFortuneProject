@@ -1,0 +1,21 @@
+User story: Text based wheel of fortune.
+
+Backlog 1-Classes
+  Sprint 1.1- Pat Sajak chat Class
+  Sprint 1.2- player class
+
+
+Backlog 2-Puzzles
+  Sprint 2.1- Use a 2D list for puzzles with their catagorie
+  Sprint 2.2 - Players take turns only putting in strings to solve the puzzles.
+
+Backlog 3- Welcome
+  Sprint 3.1 - Have players input names
+  Sprint 3.2 - Welcome players by name
+  Sprint 3.3 - Have Pat Sajak talk to players
+
+
+  
+Backlog 4 - Wheel Of fortune
+   Sprint 4.1- Spin the wheel class
+   
